@@ -1,0 +1,19 @@
+char_list_train{1}.Value.Actual = 'S';
+char_list_train{2}.Value.Actual = 'P';
+char_list_train{3}.Value.Actual = 'E';
+char_list_train{4}.Value.Actual = 'D';
+char_list_train{5}.Value.Actual = 'L';
+char_list_train{6}.Value.Actual = 'I';
+char_list_train{7}.Value.Actual = 'M';
+char_list_train{8}.Value.Actual = 'T';
+char_list_train{9}.Value.Actual = '0';
+char_list_train{10}.Value.Actual = '1';
+char_list_train{11}.Value.Actual = '2';
+char_list_train{12}.Value.Actual = '3';
+char_list_train{13}.Value.Actual = '6';
+char_list_train{14}.Value.Actual = '8';
+char_list_train{15}.Value.Actual = '9';
+char_list_train{16}.Value.Actual = '4';
+char_list_train{17}.Value.Actual = '5';
+char_list_train{18}.Value.Actual = '7';
+

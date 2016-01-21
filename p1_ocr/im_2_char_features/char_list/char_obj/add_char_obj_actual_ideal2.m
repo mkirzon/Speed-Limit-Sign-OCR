@@ -1,0 +1,12 @@
+char_list_ideal2{1}.Value.Actual = 'S';
+char_list_ideal2{2}.Value.Actual = 'P';
+char_list_ideal2{3}.Value.Actual = 'E';
+char_list_ideal2{4}.Value.Actual = 'E';
+char_list_ideal2{5}.Value.Actual = 'D';
+char_list_ideal2{6}.Value.Actual = 'L';
+char_list_ideal2{7}.Value.Actual = 'I';
+char_list_ideal2{8}.Value.Actual = 'M';
+char_list_ideal2{9}.Value.Actual = 'I';
+char_list_ideal2{10}.Value.Actual = 'T';
+char_list_ideal2{11}.Value.Actual = '3';
+char_list_ideal2{12}.Value.Actual = '1';
